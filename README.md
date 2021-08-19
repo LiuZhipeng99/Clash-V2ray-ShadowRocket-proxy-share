@@ -10,3 +10,11 @@ base64编码订阅: `https://raw.githubusercontent.com/kivid/Clash-share/main/pr
 ## Clash及其他客户端使用方法
 
 使用[订阅转换](https://bianyuan.xyz/)后使用 例clash订阅链接:`https://suo.yt/0kL8SS4`
+
+## 其他说明
+
+每个月更一次
+
+更新时节点测速都在5M/s或者以上
+
+数量在一百个以内
