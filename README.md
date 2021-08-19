@@ -17,4 +17,4 @@ base64编码订阅: `https://raw.githubusercontent.com/kivid/Clash-share/main/pr
 
 更新时节点测速都在5M/s或者以上
 
-数量在一百个以内
+数量在十个以上
