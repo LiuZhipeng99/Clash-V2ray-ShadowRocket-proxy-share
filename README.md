@@ -12,9 +12,9 @@ base64编码订阅: `https://raw.githubusercontent.com/kivid/Clash-share/main/pr
 使用[订阅转换](https://bianyuan.xyz/)后使用 例clash订阅链接:`https://suo.yt/0kL8SS4`
 
 ## 其他说明
+节点都不可用或者欲自己测试 见`http://139.9.225.221/`（贵阳电信部署的抓取程序）
 
-每个月更一次
+尽量月更
 
-更新时节点测速都在5M/s或者以上
+上传前节点测速都在5M/s或者以上 数量在十个以上
 
-数量在十个以上
