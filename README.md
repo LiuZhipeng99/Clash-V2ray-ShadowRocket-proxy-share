@@ -1,7 +1,9 @@
 # Clash-share
 分享台湾、香港、新加坡的可用节点
 
-base64编码订阅: `https://raw.githubusercontent.com/kivid/Clash-share/main/proxypool` |备用：`https://v2.tjiasu.xyz/api/v2/client/subscribe?token=3dbcf6431c264e792088a644aa316bfd`
+base64编码订阅: `https://raw.githubusercontent.com/kivid/Clash-share/main/proxypool` 
+
+备用：`https://v2.tjiasu.xyz/api/v2/client/subscribe?token=3dbcf6431c264e792088a644aa316bfd`
 
 ## v2ray/Qv2ray使用方法
 
